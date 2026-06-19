@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Germ-Free Mice",
+  "universe": "GBA · Germ-Free Mice (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Germ-Free Mice:GBA:276634⟧",
+  "carbon": "germ-free-mice.carbon.tiff (TIFF)",
+  "silicon": "germ-free-mice.silicon.png (PNG)",
+  "seal_sha256": "620d550a5b35dee2b02b064b4f7da2aa15949ee46934dbff3acf0e1ed1d2d244",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

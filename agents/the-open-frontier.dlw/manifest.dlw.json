@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Open Frontier",
+  "universe": "GBA · The Open Frontier (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Open Frontier:GBA:157f1e⟧",
+  "carbon": "the-open-frontier.carbon.tiff (TIFF)",
+  "silicon": "the-open-frontier.silicon.png (PNG)",
+  "seal_sha256": "3f35744cd6438ca15ee66b03ba2e7e13fc5610c608910313dc8c5d97f66e8a67",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

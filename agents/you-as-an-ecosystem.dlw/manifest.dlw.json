@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "You As An Ecosystem",
+  "universe": "GBA · You As An Ecosystem (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦You As An Ecosystem:GBA:f4c083⟧",
+  "carbon": "you-as-an-ecosystem.carbon.tiff (TIFF)",
+  "silicon": "you-as-an-ecosystem.silicon.png (PNG)",
+  "seal_sha256": "a048447e1aab32a333add30c181583f5cbfd70e2441a966d226d2e495583dc4a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

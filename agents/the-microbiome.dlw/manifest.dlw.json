@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Gut Microbiome",
+  "universe": "GBA · The Gut Microbiome (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Gut Microbiome:GBA:dd517a⟧",
+  "carbon": "the-microbiome.carbon.tiff (TIFF)",
+  "silicon": "the-microbiome.silicon.png (PNG)",
+  "seal_sha256": "8fa510fdc5fbd9078e921ad4106c0e238f8120afae0b01b8d72b48647e8eb4cb",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

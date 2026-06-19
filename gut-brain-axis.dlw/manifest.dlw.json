@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE GUT-BRAIN AXIS",
+  "universe": "GBA · THE GUT-BRAIN AXIS (life-science · minds without brains)",
+  "emergence": "",
+  "moniker": "⟦THE GUT-BRAIN AXIS:GBA:e00381⟧",
+  "carbon": "gut-brain-axis.carbon.tiff (TIFF)",
+  "silicon": "gut-brain-axis.silicon.png (PNG)",
+  "seal_sha256": "74822571edd1c0dcebec31f1383f982b81cc21b611ba7cb53fcb1bdf4065952e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

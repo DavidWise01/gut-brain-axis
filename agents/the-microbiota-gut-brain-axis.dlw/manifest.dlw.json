@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Microbiota-Gut-Brain Axis",
+  "universe": "GBA · The Microbiota-Gut-Brain Axis (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Microbiota-Gut-Brain Axis:GBA:2da78f⟧",
+  "carbon": "the-microbiota-gut-brain-axis.carbon.tiff (TIFF)",
+  "silicon": "the-microbiota-gut-brain-axis.silicon.png (PNG)",
+  "seal_sha256": "8c2a739dc2c727d13513bb3d8b6b21e0de2d9c59b46091b503fc14a35a86255a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Gut Feeling",
+  "universe": "GBA · The Gut Feeling (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Gut Feeling:GBA:646ffc⟧",
+  "carbon": "the-gut-feeling.carbon.tiff (TIFF)",
+  "silicon": "the-gut-feeling.silicon.png (PNG)",
+  "seal_sha256": "9a7a6a0a5c06ec3842e9ee6f36d6bd6c9ff10eaeee75fbc60c1e2aa66c82e647",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

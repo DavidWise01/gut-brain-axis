@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Enteric Nervous System",
+  "universe": "GBA · The Enteric Nervous System (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Enteric Nervous System:GBA:93c1ab⟧",
+  "carbon": "the-enteric-nervous-system.carbon.tiff (TIFF)",
+  "silicon": "the-enteric-nervous-system.silicon.png (PNG)",
+  "seal_sha256": "7ce0b9147e6509312f9f4874040daec6680cc75cc05944dfcaf9744f3bd3adec",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

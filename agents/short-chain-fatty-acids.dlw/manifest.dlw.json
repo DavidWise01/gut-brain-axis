@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Short-Chain Fatty Acids",
+  "universe": "GBA · Short-Chain Fatty Acids (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦Short-Chain Fatty Acids:GBA:b88893⟧",
+  "carbon": "short-chain-fatty-acids.carbon.tiff (TIFF)",
+  "silicon": "short-chain-fatty-acids.silicon.png (PNG)",
+  "seal_sha256": "e6ab8e613d349937b08f8e6f4975dd159ab2f6f2da0dd666401dba4635997ca0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

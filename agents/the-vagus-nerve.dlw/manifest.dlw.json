@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Vagus Nerve",
+  "universe": "GBA · The Vagus Nerve (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦The Vagus Nerve:GBA:258c91⟧",
+  "carbon": "the-vagus-nerve.carbon.tiff (TIFF)",
+  "silicon": "the-vagus-nerve.silicon.png (PNG)",
+  "seal_sha256": "b6a5b1887eec67829464d27f28a248d544f11151e346384a082785cd069a1fd2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
