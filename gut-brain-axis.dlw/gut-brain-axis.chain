@@ -4,6 +4,6 @@ slug  : gut-brain-axis
 seal  : 74822571edd1c0dcebec31f1383f982b81cc21b611ba7cb53fcb1bdf4065952e
 prev  : 403bcbd77fdd0b4fdb1ff6353f80fc5b150f9570870baed0d2529b43164e8818
 link  : dabda25360b49881f6d8fc275b76047b5da691e642deb3c6960f0ca13fd6cf0b
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
